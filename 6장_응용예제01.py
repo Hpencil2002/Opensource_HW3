@@ -1,3 +1,4 @@
+## 2021041035 조민규 ##
 ## 변수 선언 ##
 i, k, heartNum = 0, 0, 0
 numStr, ch, heartStr = "", "", ""
